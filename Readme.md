@@ -20,3 +20,17 @@
         <h3>Step 2: Go to terminal and move to contracts folder using "cd contracts" command and type "npx hardhat compile".</h3>
     </li>
 </ul>
+
+<p>Testing using Hardhat</p>
+<ul>
+    <li>
+        <h3>Step 1: Before starting install few packages.</h3>
+        <p>"npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai"</p>
+    </li>
+    <li>
+        <h3>Step 2: Create a file inside test folder, "token.js" and write the testing script.</h3>
+    </li>
+    <li>
+        <h3>Step 3: Type "npx hardhat test"</h3>
+    </li>
+</ul>
