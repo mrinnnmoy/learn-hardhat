@@ -34,3 +34,16 @@
         <h3>Step 3: Type "npx hardhat test"</h3>
     </li>
 </ul>
+
+<p>Debugging using Hardhat</p>
+<ul>
+    <li>
+        <h3>Step 1: Import console package for solidity into the smart contract.</h3>
+    </li>
+    <li>
+        <h3>Step 2: Write the debugging script into the smart contract.</h3>
+    </li>
+    <li>
+        <h3>Step 3: Type "npx hardhat test"</h3>
+    </li>
+</ul>
