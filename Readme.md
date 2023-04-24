@@ -47,3 +47,15 @@
         <h3>Step 3: Type "npx hardhat test"</h3>
     </li>
 </ul>
+
+<p>Deploying on live test network using Hardhat</p>
+<ul>
+    <li>
+        <h3>Step 1: Go to Hardhat config file and add the http link and private key for the test network using Alchemy.</h3>
+    </li>
+    <li>
+        <h3>Step 2: Type "npx hardhat run scripts/deploy.js --network sepolia".</h3>
+    </li>
+</ul>
+
+<p>Contract Address (Sepolia Test network): 0x2d722505CD800fe93cAE8E67f5F070856EA9a354</p>
